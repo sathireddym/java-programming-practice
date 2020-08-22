@@ -1,7 +1,7 @@
 package com.sathi.learning;
 import java.lang.Math;
 
-public class SquereRoot {
+public class SquareRoot {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -9,8 +9,8 @@ public class SquereRoot {
 		x = 3;
 		y = 4;
 		z = Math.sqrt(x*x + y*y);
-		System.out.println("Hypotenuse of triange with sides " + x + " and " + y +" is " + +z);
-		System.out.println("String Leterals\t" + 12_100);
+		System.out.println("Hypotenuse of triangle with sides " + x + " and " + y +" is " + +z);
+		System.out.println("String Laterals\t" + 12100);
 		
 	}
 

@@ -2,12 +2,12 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>Java_Programming_Practice</groupId>
-  <artifactId>Java_Programming_Practice</artifactId>
+  <groupId>java-programming-practice</groupId>
+  <artifactId>java-programming-practice</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>Java_Programming_Practice</name>
+  <name>java-programming-practice</name>
   <url>http://maven.apache.org</url>
 
   <properties>
